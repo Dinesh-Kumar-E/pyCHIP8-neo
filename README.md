@@ -83,6 +83,11 @@ pyCHIP8-neo/
 └── test/            # Test files
 ```
 
+## References
+
+- [CHIP-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM) - Comprehensive technical documentation
+- [Guide to Writing a CHIP-8 Emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/) - Detailed implementation guide
+
 ## License
 
 This project is open source. See the project files for more details.
