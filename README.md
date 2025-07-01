@@ -42,17 +42,17 @@ uv sync
 
 Launch the emulator:
 ```bash
-python main.py
+uv run main.py
 ```
 
 Load a specific ROM:
 ```bash
-python main.py --rom roms/tetris.rom
+uv run main.py --rom roms/tetris.rom
 ```
 
 Run with limited cycles (useful for debugging):
 ```bash
-python main.py --rom roms/pong.rom --cycles 1000
+uv run main.py --rom roms/pong.rom --cycles 1000
 ```
 
 ## Command Line Options
