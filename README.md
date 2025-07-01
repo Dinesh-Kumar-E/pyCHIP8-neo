@@ -18,10 +18,11 @@ A modern CHIP-8 emulator built with Python and PyQt6, featuring a development GU
 ![Development GUI](images/interface.png)
 
 ### Games in Action
-<div align="center">
-  <img src="images/IBM-logo.png" alt="IBM Logo Demo" width="45%">
-  <img src="images/Tetris.png" alt="Tetris Game" width="45%">
-</div>
+#### IBM Logo Demo
+![IBM Logo Demo](images/IBM-logo.png)
+
+#### Tetris Game
+![Tetris Game](images/Tetris.png)
 
 ## Quick Start
 
